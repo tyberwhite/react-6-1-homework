@@ -146,3 +146,7 @@ console.log(areDivisible); // true
 const hasLetter = panagram.some((word) => word.includes("a"));
 
 console.log(hasLetter); // true
+
+/*********** Hungry For More - Optional ******************/
+
+// Will complete this section, guaranteed! ;-)
